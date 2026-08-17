@@ -1,0 +1,17 @@
+{
+  "total_revenue": 2286031.17,
+  "total_profit": 751288.39,
+  "profit_margin_pct": 32.86,
+  "total_orders": 5946,
+  "total_customers": 847,
+  "avg_order_value": 384.47,
+  "total_units_sold": 25534,
+  "return_rate_pct": 1.5,
+  "mom_revenue_growth_pct": 0.23,
+  "yoy_revenue_growth_pct": 22.56,
+  "repeat_customer_rate_pct": 99.41,
+  "top_category": "Furniture",
+  "top_product": "Sofa 3-Seater",
+  "top_region": "West",
+  "best_day_of_week": "Sunday"
+}
