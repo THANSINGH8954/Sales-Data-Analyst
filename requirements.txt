@@ -1,0 +1,21 @@
+# Core data analysis
+pandas>=2.1
+numpy>=1.26
+
+# Visualization (notebook / static charts)
+matplotlib>=3.8
+seaborn>=0.13
+
+# Interactive dashboard
+streamlit>=1.32
+plotly>=5.20
+
+# PDF report generation
+reportlab>=4.1
+
+# Notebook execution (optional, only needed to open/edit the .ipynb yourself)
+jupyter>=1.0
+notebook>=7.0
+
+# Misc utilities
+openpyxl>=3.1
