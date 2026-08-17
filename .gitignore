@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Keep outputs/ tracked (this project ships pre-generated outputs for
+# reviewers who don't run the pipeline themselves). If you'd rather
+# regenerate outputs fresh on every clone, uncomment the lines below:
+# outputs/
+# data/sales_data_raw.csv
